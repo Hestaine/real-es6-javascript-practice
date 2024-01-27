@@ -11,3 +11,7 @@
 ## Map object
 
 ### A map object holds a key-value pair, which the key can be of any datatype. A map remembers the original insertion order of the keys, and can easily be iterated over, a map should be used instead of an object where iteration, and order is needed. Play around map in [javascript](./script.js) to get a better understanding. When you are done reading, and playing with this, you can ask chatgpt to question you on it, and learn more.
+
+## Set object
+
+### A set is a built-in object that allows you to store unique values of any data type, whether primitive values or object references. Unlike arrays, sets do not allow duplicate values. This makes sets useful when you want to store a collection of unique elements. Play around map in [javascript](./script.js) to get a better understanding. When you are done reading, and playing with this, you can ask chatgpt to question you on it, and learn more.
